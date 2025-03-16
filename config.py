@@ -1,2 +1,2 @@
-TOKEN = 'sdfdfsdsf'
+TOKEN = ''
 DATABASE = 'database.db'
